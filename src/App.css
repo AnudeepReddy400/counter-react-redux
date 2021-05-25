@@ -1,0 +1,12 @@
+.count-container{
+  display: flex;
+  align-items: center;
+  width: 400px;
+  justify-content: space-between;
+}
+.main-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}

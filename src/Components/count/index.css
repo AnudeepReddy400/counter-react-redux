@@ -1,0 +1,12 @@
+.increment{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 25px;
+}
+.decrement{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 25px;
+}
